@@ -1,6 +1,6 @@
-# ProjetoMobile_StartupFinal
+# **ProjetoMobile_StartupFinal**
 
-Este projeto tem como objetivo a implementação de práticas de **cibersegurança**, o uso de **inteligência artificial aplicada e chatbots**, e o desenvolvimento de **back-end web** para uma aplicação móvel. Nosso foco é integrar essas áreas de forma a criar uma solução segura, inteligente e robusta.
+Este projeto tem como objetivo a implementação de práticas de **cibersegurança**, o uso de **inteligência artificial aplicada e chatbots**, o **desenvolvimento de back-end web**, e o **desenvolvimento de aplicações mobile** para criar uma solução robusta, segura e inteligente. Nosso foco é integrar essas áreas de forma a proporcionar uma experiência completa e segura para os usuários.
 
 ## **Objetivos**
 
@@ -25,6 +25,13 @@ Desenvolvimento de uma arquitetura robusta para o **back-end web** que interaja 
 - **API segura**: Desenvolvimento de uma API RESTful com autenticação e criptografia para garantir a integridade e confidencialidade dos dados.
 - **Gestão de banco de dados**: Implementação de um banco de dados seguro e otimizado para a aplicação, utilizando as melhores práticas de segurança.
 
+### **4. Desenvolvimento de Aplicações Mobile**
+Criação de uma aplicação móvel nativa ou híbrida, utilizando frameworks modernos e práticas recomendadas para garantir que o aplicativo seja seguro, eficiente e fácil de usar.
+
+- **Desenvolvimento de front-end mobile**: Criação de interfaces de usuário interativas e intuitivas, utilizando ferramentas como **React Native**, **Flutter**, ou **Android/iOS nativos**.
+- **Integração com back-end**: Conexão do front-end móvel com as APIs RESTful desenvolvidas para garantir uma comunicação segura e eficiente.
+- **Boas práticas de segurança para mobile**: Implementação de práticas de segurança no desenvolvimento do aplicativo, como criptografia de dados locais, autenticação multifatorial e validação de entradas do usuário.
+
 ## **Tecnologias Utilizadas**
 
 - **Kali Linux**: Ambiente de desenvolvimento e testes de segurança.
@@ -32,21 +39,23 @@ Desenvolvimento de uma arquitetura robusta para o **back-end web** que interaja 
 - **Ferramentas de segurança estática**: Ferramentas como o **Bandit** (para Python) são utilizadas para identificar vulnerabilidades no código-fonte.
 - **Inteligência Artificial e Chatbots**: Ferramentas de NLP (Processamento de Linguagem Natural) como **Dialogflow** ou **Rasa** para a criação de chatbots inteligentes.
 - **Desenvolvimento Back-End**: Uso de frameworks como **Springboot, Angular, Node.js** ou **Django** para construir a API e gerenciar o banco de dados.
+- **Desenvolvimento Mobile**: **React Native**, **Flutter**, **Android Studio**, ou **Xcode** para o desenvolvimento de aplicativos móveis nativos ou híbridos.
 
 ## **Como Contribuir**
 
-Este repositório está aberto a contribuições que visem melhorar a segurança, a inteligência da aplicação e a arquitetura do back-end. Você pode contribuir de várias maneiras:
+Este repositório está aberto a contribuições que visem melhorar a segurança, a inteligência da aplicação, a arquitetura do back-end e o desenvolvimento da aplicação móvel. Você pode contribuir de várias maneiras:
 
 - **Cibersegurança**: Sugestões de novas ferramentas ou melhorias nas práticas de segurança.
 - **Inteligência Artificial**: Propostas para melhorar os chatbots e as funcionalidades baseadas em IA.
 - **Desenvolvimento Back-End**: Melhoria da API e do sistema de gestão de banco de dados.
+- **Desenvolvimento Mobile**: Melhorias na interface do usuário, funcionalidades e segurança do aplicativo móvel.
 
 ## **Como Rodar o Projeto**
 
 1. Clone este repositório em sua máquina local.
 2. Configure seu ambiente de desenvolvimento conforme as instruções no arquivo **INSTALL.md**.
 3. Certifique-se de que os pipelines de CI/CD estejam corretamente configurados para garantir que as verificações de segurança e testes de IA sejam realizados.
-4. Para testar os chatbots ou APIs, siga as instruções no diretório **backend/README.md**.
+4. Para testar os chatbots, APIs ou o aplicativo móvel, siga as instruções no diretório **mobile/README.md** e **backend/README.md**.
 
 ## **Segurança em Primeiro Lugar**
 
@@ -54,5 +63,5 @@ A segurança é um processo contínuo. Este projeto busca garantir que, desde o 
 
 ---
 
-**Nota:** Este projeto é uma demonstração da integração de cibersegurança, IA e desenvolvimento back-end. As contribuições para cada área são bem-vindas para aprimorar ainda mais a solução.
+**Nota:** Este projeto é uma demonstração da integração de cibersegurança, IA, desenvolvimento back-end e desenvolvimento de aplicativos móveis. As contribuições para cada área são bem-vindas para aprimorar ainda mais a solução.
 
